@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
+"""takes a float multiplier as argument and returns a function that multiplies"""
 from typing import Callable
-
-"""No Module imported"""
 
 
 def make_multiplier(multiplier: float) -> Callable[[float], float]:
