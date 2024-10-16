@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""takes a float multiplier as argument and returns a function that multiplies"""
+"""takes a float multiplies"""
 from typing import Callable
 
 

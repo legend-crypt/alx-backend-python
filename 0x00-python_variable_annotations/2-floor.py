@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import math
 """No module was not imported"""
+import math
 
 
 def floor(n: float) -> float:
