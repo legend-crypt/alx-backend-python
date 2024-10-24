@@ -5,7 +5,7 @@ import time
 import asyncio
 
 
-def measure_time(n, max_delay):
+def measure_time(n, max_delay) -> float:
     """Measure Execution time
 
     Args:
