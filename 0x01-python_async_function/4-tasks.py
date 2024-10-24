@@ -1,4 +1,4 @@
-#!/usr/env python3
+#!/usr/bin/env python3
 """import asyncio"""
 wait_random = __import__("3-tasks").task_wait_random
 import asyncio
