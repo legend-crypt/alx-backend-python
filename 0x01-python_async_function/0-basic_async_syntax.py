@@ -4,10 +4,9 @@
 
 import random
 import asyncio
-from typing import Optional, Union
 
 
-async def wait_random(max_delay: Union[int, None] = 10) -> float:
+async def wait_random(max_delay: int = 10) -> float:
     """Wait and return the delay
 
     Args:
